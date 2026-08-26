@@ -26,6 +26,12 @@ Early project themes:
 - Web apps that turn rough processes into clearer workflows
 - Learning projects that show how I think through tradeoffs, bugs, and improvements
 
+## Current Public Work
+
+- [Engelwood Site](https://github.com/dana-engels/engelwood-site): a static business landing page built with HTML, CSS, organized assets, and Wrangler deployment configuration.
+
+More projects and writeups are coming as I continue building in public.
+
 ## Background I Bring With Me
 
 Before moving deeper into computer science, I spent years building systems in construction and ministry: workflows, onboarding, volunteer teams, livestream and audio systems, documentation, business operations, and group structures. That experience shaped how I think about software.
