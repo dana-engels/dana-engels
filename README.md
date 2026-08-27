@@ -28,6 +28,7 @@ Early project themes:
 
 ## Current Public Work
 
+- [Portfolio](https://dana-engels-portfolio.dengels.chatgpt.site): a focused software portfolio showing my current direction, background, proof to date, and public work.
 - [Engelwood Site](https://github.com/dana-engels/engelwood-site): a static business landing page built with HTML, CSS, organized assets, and Wrangler deployment configuration.
 
 More projects and writeups are coming as I continue building in public.
@@ -40,7 +41,6 @@ I like finding friction, understanding the system behind it, and building someth
 
 ## Connect
 
+- Portfolio: https://dana-engels-portfolio.dengels.chatgpt.site
 - LinkedIn: https://www.linkedin.com/in/dana-engels/
 - GitHub: https://github.com/dana-engels
-
-Portfolio coming soon.
